@@ -1,0 +1,1 @@
+{"name":"RoomType","identifier":"KWONLAD4PI","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"Classic"}},{"synonyms":null,"sampleValue":{"value":"Delux"}},{"synonyms":null,"sampleValue":{"value":"Suite"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}
